@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekirhamad-bh&show_icons=true&locale=en" alt="bekirhamad-bh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekirhamad-bh&" alt="bekirhamad-bh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakrhamad&" alt="bakrhamad" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekirhamad-bh&label=Profile%20views&color=0e75b6&style=flat" alt="bekirhamad-bh" /> </p>
