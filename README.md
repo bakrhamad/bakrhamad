@@ -10,10 +10,10 @@
 <p align="left">
 <a href="https://twitter.com/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bekirhamad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bekirhamad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bekirhamad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21431570/bakr-hamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bekirhamad" height="30" width="40" /></a>
 <a href="https://instagram.com/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bekirhamad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bekirhamad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bekirhamad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bekirhamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bekirhamad" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/bekirhamh3up/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bekirhamad" height="30" width="40" /></a>
 </p>
 <hr>
 
