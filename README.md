@@ -1,5 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQERmehtV7yMqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714678716200?e=1750291200&v=beta&t=NkwcY-B_tFWNcufsydYo6zgfPD4S4CCC4_a9EKICcjY)
 <h1 align="center">Hi 👋, I'm Bakr</h1>
+
 <h3 align="center">A passionate <i>full stack developer</i> from turkey</h3>
 <br>
 
